@@ -23,7 +23,7 @@ int main()
     else
     {
         printf("Successfully reversed the string.\n");
-        printf("Reversed String: %s",s);
+        printf("Reversed String: %s\n",s);
     }
     return 0;
 }
